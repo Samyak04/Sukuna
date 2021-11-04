@@ -1,5 +1,5 @@
 {
-    "name": "sukuna (lordrakesh)",
+    "name": "sukuna",
     "description": "Simple Wa Bot",
     "keywords": [
       "bot",
@@ -11,7 +11,7 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
     ],
-    "repository": "https://github.com/lordrakesh/sukuna-botto.git",
+    "repository": "https://github.com/Samyak04/Sukuna",
     "logo": "https://pbs.twimg.com/media/Eu4b9JaXEAAeByb.jpg",
     "success_url": "/",
     "env": {
